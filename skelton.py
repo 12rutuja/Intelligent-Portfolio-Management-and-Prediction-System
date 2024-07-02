@@ -1,11 +1,7 @@
-# Intelligent-Portfolio-Management-and-Prediction-System
-
-How TO make all the files inside the Repo
-'''Python
 import os
 
 # Define the base directory path
-base_dir = r"Path_To_Your_Repository"
+base_dir = r"D:\00 extra_learning\Github_Repos\Intelligent-Portfolio-Management-and-Prediction-System"
 
 # Define the structure as a dictionary
 structure = {
@@ -64,4 +60,3 @@ def create_structure(base_path, structure):
 create_structure(base_dir, structure)
 
 print("Directory structure created successfully.")
-'''

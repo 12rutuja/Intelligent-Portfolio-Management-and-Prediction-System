@@ -1,10 +1,12 @@
 # Intelligent-Portfolio-Management-and-Prediction-System
 
-How TO make all the files inside the Repo
-'''Python
+How To make all the files inside the Repo
+
+Python
 import os
 
 # Define the base directory path
+
 base_dir = r"Path_To_Your_Repository"
 
 # Define the structure as a dictionary
@@ -64,4 +66,4 @@ def create_structure(base_path, structure):
 create_structure(base_dir, structure)
 
 print("Directory structure created successfully.")
-'''
+"""
